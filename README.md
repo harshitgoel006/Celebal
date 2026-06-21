@@ -1,25 +1,62 @@
-# Celebal Summer Internship 2026
+# Celebal Technologies Internship
 
-This repository contains assignments completed during the Celebal Technologies Summer Internship Program.
+This repository contains the work, assignments, exercises, and learning activities completed during my internship at Celebal Technologies.
 
-## Assignments
+## About
 
-### Assignment 1 - Basic Data Cleaning
+The purpose of this repository is to document my learning journey, hands-on practice, and project work throughout the internship program.
 
-Tasks Performed:
+The repository covers topics such as:
 
-- Loaded Fashion Products Dataset
-- Inspected dataset structure
-- Checked data types
-- Identified missing values
-- Filled missing numerical values using median
-- Filled missing categorical values with "Not Available"
-- Checked and removed duplicate records
-- Created a derived feature (`total_amount`)
-- Exported cleaned dataset
+- Python Programming
+- Data Analysis
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning Fundamentals
+- Real-World Datasets
+- Git & GitHub Workflow
 
-Files:
+## Repository Structure
 
-- Basic_Data_Cleaning.ipynb
-- Combined_dataset.csv
-- cleaned_fashion_products.csv
+```text
+Celebal/
+│
+├── README.md
+│
+├── Assignment_1/
+├── Assignment_2/
+├── Assignment_3/
+├── ...
+│
+└── Additional Resources/
+```
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Git
+- GitHub
+
+## Objectives
+
+- Strengthen Python fundamentals
+- Work with real-world datasets
+- Learn data cleaning and preprocessing techniques
+- Develop analytical thinking and problem-solving skills
+- Follow industry-standard version control practices
+- Build practical experience through hands-on assignments
+
+## Author
+
+**Harshit Goel**
+
+GitHub: https://github.com/harshitgoel006
+
+---
+
+This repository will be updated regularly throughout the internship with new assignments, exercises, and learning outcomes.
